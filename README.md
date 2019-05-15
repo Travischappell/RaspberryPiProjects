@@ -39,4 +39,8 @@ Not I need to figure out how to push changes _FROM_ the Pi.
      - Input GitHub password:42**************!!
 
 Maybe I need ot figure out how to set up the SSH authentication?
+ssh-keygen -t rsa -b 4096 -C
+eval $(ssh-agent -s)
+
+Maybe with my cool new key?
 
