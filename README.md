@@ -38,3 +38,5 @@ Not I need to figure out how to push changes _FROM_ the Pi.
      - Input GitHub username: travischappell
      - Input GitHub password:42**************!!
 
+Maybe I need ot figure out how to set up the SSH authentication?
+
