@@ -35,3 +35,6 @@ Not I need to figure out how to push changes _FROM_ the Pi.
 3. In CLI, commit all changes `git commit -a` 
      - or a specific file with `git add <file>`
 4. with file stages, push wtih `git push`
+     - Input GitHub username: travischappell
+     - Input GitHub password:42**************!!
+
