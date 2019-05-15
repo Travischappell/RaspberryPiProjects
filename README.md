@@ -16,6 +16,8 @@ Shared Repo With my Raspberry Pi Projects
     - either use GitHub desktop app (_Ctrl + P_)
     - or use GitBash to push (`git push`) the changes
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 **Pull changes to Pi:**
 1. In command Line Interface, pull all Changes
     - cd to repository "RaspberryPiProjects" (`cd ~/RaspberryPiProjects`)
@@ -30,4 +32,6 @@ Not I need to figure out how to push changes _FROM_ the Pi.
 
 1. Make Changes
 2. Save Changes locally (Ctrl + S)
-3. 
+3. In CLI, commit all changes `git commit -a` 
+     - or a specific file with `git add <file>`
+4. with file stages, push wtih `git push`
