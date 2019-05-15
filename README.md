@@ -7,8 +7,8 @@ Shared Repo With my Raspberry Pi Projects
 
 **From Surface:**
 1. Make Changes
-2. Save Changes locally
-3. Commit Changes using the `Git` plugin for Atom
+2. Save Changes locally (Ctrl + S)
+3. Commit Changes using the `Git` plugin for Atom or GitHub desktop
     - Stage changes if in Atom. Not needed it using GitHub desktop
     - Input Commit Message
     - Commit to master (Ctrl + Enter) (_This is locally_)
@@ -23,3 +23,11 @@ Shared Repo With my Raspberry Pi Projects
 2. Confirm changes are updated
 
 Dont fuck it up.
+
+====================================================
+
+Not I need to figure out how to push changes _FROM_ the Pi.
+
+1. Make Changes
+2. Save Changes locally (Ctrl + S)
+3. 
